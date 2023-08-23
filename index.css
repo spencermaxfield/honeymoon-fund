@@ -18,3 +18,8 @@ a {
     text-decoration: none;
     color: black;
 }
+
+.johnica-spencer-picture {
+    width: 80%;
+    max-width: 200px;
+}
