@@ -24,14 +24,14 @@ a {
     height: 70px;
     background: lightgrey;
     width: 150px;
-    border-radius: 10px;
+    border-radius: 100px;
     text-align: center;
     display: flex;
     justify-content: center;
     flex-direction: column;
     margin: 20px;
     text-decoration: none;
-    color: black;
+    color: rgb(243, 243, 243);
 }
 
 .johnica-spencer-picture {
