@@ -11,6 +11,7 @@ body {
     background-color: rgb(252, 252, 252);
     font-family: circular,sans-serif;
     font-weight: 700;
+    color: rgb(14,14,14);
 }
 
 .main-content {
@@ -22,7 +23,7 @@ body {
 
 a {
     height: 70px;
-    background: lightgrey;
+    background-color: rgb(243, 243, 243);
     width: 150px;
     border-radius: 100px;
     text-align: center;
@@ -31,7 +32,6 @@ a {
     flex-direction: column;
     margin: 20px;
     text-decoration: none;
-    color: rgb(243, 243, 243);
 }
 
 .johnica-spencer-picture {
