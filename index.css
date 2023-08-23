@@ -51,3 +51,8 @@ a {
 .page-header {
     text-align: center;
 }
+
+.thank-you {
+    font-style: italic;
+    margin-top: 30px;
+}
