@@ -20,6 +20,9 @@ a {
 }
 
 .johnica-spencer-picture {
-    width: 80%;
-    max-width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background: url(IMG_1702_smaller.jpg) 50% 20% no-repeat;
+    background-size: cover;
 }
