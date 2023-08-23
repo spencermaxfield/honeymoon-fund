@@ -38,10 +38,10 @@ a {
 
 .johnica-spencer-picture {
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
-    min-height: 200px;
-    min-width: 200px;
+    height: 180px;
+    width: 180px;
+    min-height: 180px;
+    min-width: 180px;
     background: url(IMG_1702_smaller.jpg);
     background-size: cover;
     background-position: center 20%;
