@@ -41,3 +41,7 @@ a {
     background: url(IMG_1702_smaller.jpg) 50% 20% no-repeat;
     background-size: cover;
 }
+
+.page-header {
+    text-align: center;
+}
